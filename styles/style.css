@@ -1,0 +1,25 @@
+body {
+  background-color: #a6a6a624;
+}
+
+.home {
+  /* height: auto; */
+  height: 180vh;
+  width: auto;
+  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.2)),
+    url("https://img.sdcexec.com/files/base/acbm/sdce/image/2021/06/conceptcafe_AdobeStock_425641725.60c0d1d402b43.png?auto=format%2Ccompress&fit=crop&h=288&q=70&w=512");
+  background-size: cover;
+}
+
+.intro {
+  color: whitesmoke;
+  padding: 10% 20%;
+  text-align: justify;
+  font-size: 20px;
+  font-weight: 200;
+}
+
+.name {
+  font-size: 5em;
+  font-weight: 500;
+}
